@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2022.1.1 (64-bit)
+# SW Build 3557992 on Fri Jun  3 09:56:20 MDT 2022
+# IP Build 3556342 on Fri Jun  3 19:31:36 MDT 2022
+# Start of session at: Mon Aug 22 10:22:19 2022
+# Process ID: 3346
+# Current directory: /home/docker/2022.1/clean/hdl/projects/u96v2_sbc_base_2022_1/u96v2_sbc_base.runs/u96v2_sbc_base_PWM_w_Int_0_0_synth_1
+# Command line: vivado -log u96v2_sbc_base_PWM_w_Int_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source u96v2_sbc_base_PWM_w_Int_0_0.tcl
+# Log file: /home/docker/2022.1/clean/hdl/projects/u96v2_sbc_base_2022_1/u96v2_sbc_base.runs/u96v2_sbc_base_PWM_w_Int_0_0_synth_1/u96v2_sbc_base_PWM_w_Int_0_0.vds
+# Journal file: /home/docker/2022.1/clean/hdl/projects/u96v2_sbc_base_2022_1/u96v2_sbc_base.runs/u96v2_sbc_base_PWM_w_Int_0_0_synth_1/vivado.jou
+# Running On: 86e49382c030, OS: Linux, CPU Frequency: 3021.531 MHz, CPU Physical cores: 8, Host memory: 67150 MB
+#-----------------------------------------------------------
+source u96v2_sbc_base_PWM_w_Int_0_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:06 ; elapsed = 00:00:15 . Memory (MB): peak = 2912.672 ; gain = 2.016 ; free physical = 25320 ; free virtual = 69150
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/home/docker/2022.1/clean/hdl/ip'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Xilinx/Vivado/2022.1/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP u96v2_sbc_base_PWM_w_Int_0_0, cache-ID = fab44dcf9535fb02.
+INFO: [Common 17-206] Exiting Vivado at Mon Aug 22 10:23:03 2022...
